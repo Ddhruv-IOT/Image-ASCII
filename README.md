@@ -1,4 +1,6 @@
-# ASCII ART GENERATOR
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/54676859/211333178-1c0718d5-3d73-4486-b629-da0925f64882.jpg">
+</p>
 
 ## ℹ️ Overview:
 A simple python code to convert your image into ASCII Art.
