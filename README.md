@@ -3,7 +3,8 @@
 </p>
 
 ## ℹ️ Overview:
-A simple python code to convert your image into ASCII Art.
+The Image-ASCII is a simple python script to convert images into ASCII Art. 
+ASCII art was famous in the older days when graphics were not so popular, images were displayed from a set of about 95 characters. ASCII art is also known as text-based visual art in general. Till date, it's popular and widely used as it's eye-catching and easy to implement.
 
 ## ⚒️ Tools and Technologies Used
 
